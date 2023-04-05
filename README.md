@@ -1,1 +1,1 @@
-<h2>'Game' developed by using react</h2>
+<h2>'Game' </h2>
